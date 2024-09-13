@@ -1,0 +1,10 @@
+{
+    "mental_health": {
+      "what_is_anxiety": "Anxiety is a feeling of worry, nervousness, or unease about something with an uncertain outcome.",
+      "how_to_manage_stress": "Stress management techniques include exercise, meditation, and talking to a counselor."
+    },
+    "exam_preparation": {
+      "study_tips": "Create a study schedule, break down your study sessions into manageable chunks, and take regular breaks.",
+      "time_management": "Use tools like calendars and timers to keep track of your study sessions and ensure you balance study with relaxation."
+    }
+  }
